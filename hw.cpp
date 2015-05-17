@@ -13,3 +13,6 @@ void featurea ()
 {
 	cout << "feaurea";
 }
+void bugfix()
+{
+}
