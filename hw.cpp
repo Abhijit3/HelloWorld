@@ -8,3 +8,7 @@ void main ()
     cout << "Hello World";
     cout << "it is a great day";
 }
+
+void featurea ()
+{
+}
