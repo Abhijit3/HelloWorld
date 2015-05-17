@@ -11,4 +11,5 @@ void main ()
 
 void featurea ()
 {
+	cout << "feaurea";
 }
